@@ -1,1 +1,1 @@
-# BrickBreaker (JavScript)
+# BrickBreaker (JavaScript)
